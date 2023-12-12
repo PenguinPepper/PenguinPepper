@@ -1,7 +1,12 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Elizabeth+Panashe+Pfachi;"/>
 </h1>
+
 <!--
+<section align="center">
+  <a href="https://www.linkedin.com/in/elizabethpfachi" target="_blank">
+    <img src="https://img"
+
 **PenguinPepper/PenguinPepper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
