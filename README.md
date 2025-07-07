@@ -10,7 +10,7 @@ I'm a passionate  Software Developer with a keen interest in  building scalable 
 
 ---
 
-## 🛠️ Skills & Technologies
+# 🛠️ Skills & Technologies
 
 Here are some of the technologies I work with:
 
