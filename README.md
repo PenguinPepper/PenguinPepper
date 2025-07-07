@@ -8,12 +8,10 @@ I'm a passionate  Software Developer with a keen interest in  building scalable 
 
 Here are some of the technologies I work with:
 
-*   **Languages:** JavaScript, Python, [Other Languages]
-*   **Frameworks:** React, Node.js, [Other Frameworks]
-*   **Databases:** PostgreSQL, MongoDB, [Other Databases]
-*   **Tools:** Git, Docker, [Other Tools]
-
----
+*   **Languages:** JavaScript, Python, TypeScript, C
+*   **Frameworks:** React, Node.js, Nextjs
+*   **Databases:** PostgreSQL, MongoDB
+*   **Tools:** Git, Docker
 
 ## 📊 GitHub Stats
 
@@ -21,15 +19,14 @@ Here are some of the technologies I work with:
   <img src="https://github-readme-stats.vercel.app/api?username=PenguinPepper&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
 </p>
 
----
-
 ## 🌐 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Your Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPepper&layout=compact&theme=radical" alt="Your Top Languages" />
 </p>
 
----
+<!--
+
 
 ## 🤝 Connect with me
 
@@ -37,7 +34,6 @@ Here are some of the technologies I work with:
 *   [Twitter](https://twitter.com/your-twitter-handle)
 *   [Your Website/Portfolio (if any)](https://your-website.com)
 
-<!--
 <section align="center">
   <a href="https://www.linkedin.com/in/elizabethpfachi" target="_blank">
     <img src="https://img"
