@@ -4,7 +4,7 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
 I'm a passionate  Software Developer with a keen interest in  building scalable web applications, machine learning, open source. I enjoy learning new technologies and contributing to impactful projects.
 
