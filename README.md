@@ -13,12 +13,6 @@ Here are some of the technologies I work with:
 *   **Databases:** PostgreSQL, MongoDB
 *   **Tools:** Git, Docker
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PenguinPepper&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
-</p>
-
 ## 🌐 Top Languages
 
 <p align="center">
@@ -27,6 +21,11 @@ Here are some of the technologies I work with:
 
 <!--
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PenguinPepper&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Your GitHub Stats" />
+</p>
 
 ## 🤝 Connect with me
 
