@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Elizabeth+Panashe+Pfachi;"/>
 </h1>
 
-# 👋 About Me
-
 I'm a passionate  Software Developer with a keen interest in  building scalable web applications, machine learning, open source. I enjoy learning new technologies and contributing to impactful projects.
 
 # 🛠️ Skills & Technologies
