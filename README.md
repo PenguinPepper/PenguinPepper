@@ -16,7 +16,7 @@ Here are some of the technologies I work with:
 ## 🌐 Top Languages
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPepper&layout=compact&theme=radical)
+  <img src=`https://github-readme-stats.vercel.app/api/top-langs/?username=PenguinPepper&layout=compact&theme=radical`/>
 </p>
 
 <!--
