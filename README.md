@@ -13,6 +13,8 @@ Here are some of the technologies I work with:
 *   **Databases:** PostgreSQL, MongoDB
 *   **Tools:** Git, Docker
 
+
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
