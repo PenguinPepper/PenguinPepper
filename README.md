@@ -2,9 +2,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋;+I'm+Elizabeth+Panashe+Pfachi;"/>
 </h1>
 
+<p align="center"> <a href="https://twitter.com/Panashe356830" target="blank"><img src="https://img.shields.io/twitter/follow/Panashe356830?logo=twitter&style=for-the-badge" alt="Panashe356830" /></a> </p>
+
 I'm a passionate  Software Developer with a keen interest in  building scalable web applications, machine learning, open source. I enjoy learning new technologies and contributing to impactful projects.
 
-<p align="center"> <a href="https://twitter.com/Panashe356830" target="blank"><img src="https://img.shields.io/twitter/follow/Panashe356830?logo=twitter&style=for-the-badge" alt="Panashe356830" /></a> </p>
 
 - 🔭 I'm currently working on **katy: a web extension**
 
@@ -25,6 +26,8 @@ Here are some of the technologies I work with:
 *   **Databases:** PostgreSQL, MongoDB
 *   **Tools:** Git, Docker
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinPepper&" alt="PenguinPepper" /></p>
+
 ## Connect with me:
 <p align="center">
 <a href="https://linkedin.com/in/elizabethpfachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabethpfachi" height="30" width="40" /></a>
@@ -33,7 +36,7 @@ Here are some of the technologies I work with:
 <a href="https://youtube.com/ElizabethPfachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ElizabethPfachi" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PenguinPepper&" alt="PenguinPepper" /></p>
+
 <!--
 ## 📊 GitHub Stats
 
