@@ -33,7 +33,7 @@ Here are some of the technologies I work with:
 <a href="https://linkedin.com/in/elizabethpfachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elizabethpfachi" height="30" width="40" /></a>
 <a href="https://twitter.com/Panashe356830" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Panashe356830" height="30" width="40" /></a>
 <a href="https://medium.com/@penguinpepper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@penguinpepper" height="30" width="40" /></a>
-<a href="https://youtube.com/ElizabethPfachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ElizabethPfachi" height="30" width="40" /></a>
+<a href="https://youtube.com/@ElizabethPfachi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ElizabethPfachi" height="30" width="40" /></a>
 </p>
 
 
