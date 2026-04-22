@@ -7,7 +7,7 @@
 I'm a passionate  Software Developer with a keen interest in  building scalable web applications, machine learning, open source. I enjoy learning new technologies and contributing to impactful projects.
 
 
-- 🔭 I'm currently working on **katy: a web extension**
+- 🔭 I'm currently working on **pipinos-cli: a command line tool**
 
 - 🌱 I'm currently learning **react native and system design**
 
